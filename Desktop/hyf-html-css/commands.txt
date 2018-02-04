@@ -1,0 +1,277 @@
+
+Rashad@Rashad-PC MINGW64 ~
+$
+
+
+Rashad@Rashad-PC MINGW64 ~
+$
+
+Rashad@Rashad-PC MINGW64 ~
+$ notepad.exe
+te   dsa
+te
+
+Rashad@Rashad-PC MINGW64 ~
+$ dsa
+bash: dsa: command not found
+
+Rashad@Rashad-PC MINGW64 ~
+$ ^C
+
+Rashad@Rashad-PC MINGW64 ~
+$ te
+tee.exe                            test.exe
+telephon.cpl                       tetheringclient.dll
+TelephonyInteractiveUser.dll       tetheringconfigsp.dll
+TelephonyInteractiveUserRes.dll    TetheringIeProvider.dll
+telnet.exe                         TetheringMgr.dll
+TempSignedLicenseExchangeTask.dll  tetheringservice.dll
+termmgr.dll                        TetheringStation.dll
+termsrv.dll                        TextInputFramework.dll
+test
+
+Rashad@Rashad-PC MINGW64 ~
+$ cd
+
+Rashad@Rashad-PC MINGW64 ~
+$ pwd
+/c/Users/Rashad
+
+Rashad@Rashad-PC MINGW64 ~
+$ pwd
+/c/Users/Rashad
+
+Rashad@Rashad-PC MINGW64 ~
+$ mkdir html
+
+Rashad@Rashad-PC MINGW64 ~
+$ pwd
+/c/Users/Rashad
+
+Rashad@Rashad-PC MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+'Cisco Packet Tracer 7.0'/
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ html/
+ iCloudDrive/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NetHood@
+ ntuser.dat
+ ntuser.dat.log1
+ ntuser.dat.log2
+ ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.0.regtrans-ms
+ ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.1.regtrans-ms
+ ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.2.regtrans-ms
+ ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.blf
+ NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TM.blf
+ NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TMContainer0000000000000000000                                                                                                                1.regtrans-ms
+ NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TMContainer0000000000000000000                                                                                                                2.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ OpenVPN/
+ Pictures/
+ PrintHood@
+ Recent@
+ RIPS.txt
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Tracing/
+ Videos/
+'VirtualBox VMs'/
+
+Rashad@Rashad-PC MINGW64 ~
+$ cd html
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ pwd
+/c/Users/Rashad/html
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ cd
+
+Rashad@Rashad-PC MINGW64 ~
+$ ls
+ AppData/                    html/              ntuser.dat.log2                                                                                OneDrive/      'Start Menu'@
+'Application Data'@          iCloudDrive/       ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.0.regtrans-ms                             OpenVPN/        Templates@
+'Cisco Packet Tracer 7.0'/   Links/             ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.1.regtrans-ms                             Pictures/       Tracing/
+ Contacts/                  'Local Settings'@   ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.2.regtrans-ms                             PrintHood@      Videos/
+ Cookies@                    Music/             ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.blf                                       Recent@        'VirtualBox VMs'/
+ Desktop/                   'My Documents'@     NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TM.blf                                        RIPS.txt
+ Documents/                  NetHood@           NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TMContainer00000000000000000001.regtrans-ms  'Saved Games'/
+ Downloads/                  ntuser.dat         NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TMContainer00000000000000000002.regtrans-ms   Searches/
+ Favorites/                  ntuser.dat.log1    ntuser.ini                                                                                     SendTo@
+
+Rashad@Rashad-PC MINGW64 ~
+$ cd html
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ mkdir html
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ pwd
+/c/Users/Rashad/html
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ ls
+html/
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ ls -a
+./  ../  html/
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ cd .
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ pwd
+/c/Users/Rashad/html
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ cd ..
+
+Rashad@Rashad-PC MINGW64 ~
+$ pwd
+/c/Users/Rashad
+
+Rashad@Rashad-PC MINGW64 ~
+$ cd html/
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ mkdir css
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ ls
+css/  html/
+
+Rashad@Rashad-PC MINGW64 ~/html
+$ cd css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ pwd
+/c/Users/Rashad/html/css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ cd /
+
+Rashad@Rashad-PC MINGW64 /
+$ pwd
+/
+
+Rashad@Rashad-PC MINGW64 /
+$ cd -
+/c/Users/Rashad/html/css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ ^C
+
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ cd
+
+Rashad@Rashad-PC MINGW64 ~
+$ echo "hello"
+hello
+
+Rashad@Rashad-PC MINGW64 ~
+$ cs css
+bash: cs: command not found
+
+Rashad@Rashad-PC MINGW64 ~
+$ las
+bash: las: command not found
+
+Rashad@Rashad-PC MINGW64 ~
+$ ls
+ AppData/                    html/              ntuser.dat.log2                                                                                OneDrive/      'Start Menu'@
+'Application Data'@          iCloudDrive/       ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.0.regtrans-ms                             OpenVPN/        Templates@
+'Cisco Packet Tracer 7.0'/   Links/             ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.1.regtrans-ms                             Pictures/       Tracing/
+ Contacts/                  'Local Settings'@   ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.2.regtrans-ms                             PrintHood@      Videos/
+ Cookies@                    Music/             ntuser.dat{a55075c0-38f2-11e7-b5f3-b8da67b8b9f8}.TxR.blf                                       Recent@        'VirtualBox VMs'/
+ Desktop/                   'My Documents'@     NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TM.blf                                        RIPS.txt
+ Documents/                  NetHood@           NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TMContainer00000000000000000001.regtrans-ms  'Saved Games'/
+ Downloads/                  ntuser.dat         NTUSER.DAT{a55075c1-38f2-11e7-b5f3-b8da67b8b9f8}.TMContainer00000000000000000002.regtrans-ms   Searches/
+ Favorites/                  ntuser.dat.log1    ntuser.ini                                                                                     SendTo@
+
+Rashad@Rashad-PC MINGW64 ~
+$ cd -
+/c/Users/Rashad/html/css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ touch style.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ ls
+style.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ echo "background-color:green;" > styles.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ ls
+style.css  styles.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ ls styles.css
+styles.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ echo "background-color:green;"
+background-color:green;
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ echo "background-color:green;" > styles.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ ls
+style.css  styles.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ del style.css
+bash: del: command not found
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ cat styles.css
+background-color:green;
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ echo "background-color:green;" > styles.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ cat styles.css
+background-color:green;
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ echo "height:450px;" >> styles.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ cat styles
+cat: styles: No such file or directory
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ cat styles.css
+background-color:green;
+height:450px;
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ echo -n "font-size:12px;" >> styles.css
+
+Rashad@Rashad-PC MINGW64 ~/html/css
+$ cat styles.css
+background-color:green;
+height:450px;
+font-size:12px;
+Rashad@Rashad-PC MINGW64 ~/html/css
+$
